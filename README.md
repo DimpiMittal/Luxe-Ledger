@@ -1,4 +1,4 @@
-### 💸 Luxe Ledger
+## 💸 Luxe Ledger
 
 # Overview
 Luxe Ledger is a web application designed to make currency conversion simple and interactive. It also features a quiz to help users test their knowledge about global currencies and financial markets. Luxe Ledger provides an intuitive interface with real-time exchange rates and an engaging quiz module to make learning about currencies both educational and fun!
